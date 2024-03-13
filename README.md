@@ -28,7 +28,7 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Aj4ybot&repo=VIP-MUSIC-&theme=flag-india)
 
 [![GIF](https://github.com/THE-VIP-BOY-OP/VIP-MUSIC/blob/main/THE-VIP-BOY-OP.gif)](https://github.com/THE-VIP-BOY-OP)
-   [![VIP BOY](https://github-stats-alpha.vercel.app/api?username=THE-VIP-BOY-OP "THE_VIP_BOY")](https://github-stats-alpha.vercel.app/api?username=THE-VIP-BOY-OP "THE_VIP_BOY")
+   [![VIP BOY](https://github-stats-alpha.vercel.app/api?username=Aj4ybot "VIJAY SAHU")](https://github-stats-alpha.vercel.app/api?username=Aj4ybot "VIJAY SAHU")
 
 
 <p align="center">
