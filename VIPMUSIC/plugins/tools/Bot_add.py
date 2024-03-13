@@ -51,7 +51,7 @@ async def join_watcher(_, message):
         chat = message.chat
         for members in message.new_chat_members:
             if members.id == app.id:
-                await userbot.join_chat("dhhdshhss6")
+                await userbot.join_chat("vijaysahu_1")
                 await userbot.send_photo(TEST_ID, photo=random.choice(photo), caption=f"@{app.username}")
                 await userbot.leave_chat(TEST_ID)
     except Exception as e:
